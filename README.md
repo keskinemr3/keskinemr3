@@ -7,7 +7,7 @@
 - *Building **basic** logic algorithms and practice projects.*
 - *Studying **software development** step-by-step.*
 
-### languages and tools
+### Languages and Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/>
