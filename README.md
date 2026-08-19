@@ -1,12 +1,12 @@
 <p align="center">
   <img src="creationofadam.jpeg" width="600"/>
 </p>
-
+---
 ###
 - ***High school** student learning **Java** and OOP fundamentals.**
 - *Building **basic** logic algorithms and practice projects.*
 - *Studying **software development** step-by-step.*
-
+---
 ### Languages and Tools
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
