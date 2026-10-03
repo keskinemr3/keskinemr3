@@ -4,9 +4,7 @@
 
 ---
 
-- **High school** student learning **Java** and OOP fundamentals.
-- Building **basic** logic algorithms and practice projects.
-- Studying **software development** step-by-step.
+- my eyes can see through everything
 
 ---
 
