@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="Ekran görüntüsü 2026-07-15 191109.png" width="600"/>
+  <img src="1089167491157994136.jpg" width="600"/>
 </p>
 
 ---
