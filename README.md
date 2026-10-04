@@ -1,11 +1,7 @@
-<p align="center">
-  <img src="indir (2).jpg" width="600"/>
-</p>
+
+- “ Hence I have no mercy or compassion in me for a society that will crush people, and then penalize them for not being able to stand up under the weight. ”
 
 ---
-
-- my eyes can see through everything
-
 
 <p>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
